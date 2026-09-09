@@ -1,0 +1,30 @@
+In scope:
+Product master data
+Product components
+Product lots/batches
+Product movements
+Operating entities
+Locations
+Shipments
+Packaging specifications
+Packaging configurations
+Packaging instances/events
+Packaging components
+Material data
+Supplier data
+Evidence/provenance
+EPR-related data
+PPWR-related data
+DPP-readiness
+
+
+Initially out of scope:
+Legal advice
+Full EPR reporting automation
+Full PPWR compliance engine
+Full DPP implementation
+ERP replacement
+PLM replacement
+Supplier portal
+Production planning
+Logistics optimisation
