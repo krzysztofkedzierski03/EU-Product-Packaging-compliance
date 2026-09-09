@@ -1,0 +1,27 @@
+1. Product ≠ Product Lot
+
+A product identifier represents the product definition. A lot/batch represents a specific population of that product.
+
+2. Packaging is contextual
+
+The same product may be transported, sold or repacked using different packaging configurations.
+
+3. Lifecycle events matter
+
+Product traceability must account for movements, transfers and transformations.
+
+4. Packaging must be traceable
+
+Packaging should be connected to the actual product/lifecycle event where possible.
+
+5. Evidence is a first-class concept
+
+Important data points should eventually be traceable to their source.
+
+6. Regulations consume the data model
+
+EPR, PPWR and DPP should not independently define the underlying product model.
+
+7. Open architecture
+
+The model should be designed to integrate with ERP, PLM, PIM, WMS and supplier systems rather than replace them.
